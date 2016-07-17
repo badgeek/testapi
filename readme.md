@@ -1,5 +1,7 @@
 # CocoMake7
 
+<trello>
+
 **Todo**
 * Burn bootloader + keyboard velocity automaticaly
 * include the TeenyMidi lib
@@ -25,3 +27,5 @@
 * Cocomake7 for storing packages json and tar gz
 * TeenyKeyboard arrow press
 * Travis CI Continuous integration, automatically create cocomake package
+
+</trello>
