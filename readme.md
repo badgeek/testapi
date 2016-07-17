@@ -1,5 +1,3 @@
-asssik
-
 <trello>
 
 # CocoMake7
@@ -29,6 +27,5 @@ asssik
 * Cocomake7 for storing packages json and tar gz
 * TeenyKeyboard arrow press
 * Travis CI Continuous integration, automatically create cocomake package
-
 
 </trello>
