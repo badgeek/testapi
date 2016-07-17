@@ -15,12 +15,12 @@ asssik
 * Put credits of collaborators
 
 **Feature Request**
-* TeenyKeyboard long press
 
 **Question**
 * How do we organize example codes ?
 
 **Working on**
+* TeenyKeyboard long press
 
 **Done**
 * Cocomake7Platform for storing platform files
