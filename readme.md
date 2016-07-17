@@ -1,4 +1,3 @@
-<trello>
 # CocoMake7
 
 **Todo**
@@ -27,5 +26,3 @@
 * [Cocomake7 for storing packages json and tar gz](https://trello.com/c/QbXSwl6K)
 * [TeenyKeyboard arrow press](https://trello.com/c/o90oEfL7)
 * [Travis CI Continuous integration, automatically create cocomake package](https://trello.com/c/NwXEv4PG)
-
-</trello>
